@@ -8,12 +8,14 @@ import AboutMe from './components/Sections/AboutMe'
 import Contact from './components/Sections/Contact'
 import Skills from './components/Sections/Skills'
 import Footer from './components/Layout/Footer'
+import { Analytics } from '@vercel/analytics/react'
 
 function App() {
   const { t } = useTranslation()
 
   return (
     <>
+      <Analytics />
       <StarsBackground />
       <Header />
       <main className="px-4">
