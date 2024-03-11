@@ -1,0 +1,66 @@
+{
+  "title": "Daniel's Portfolio",
+  "header": {
+    "navItems": {
+      "projects": "My Projects",
+      "skills": "Skills",
+      "aboutMe": "About me",
+      "contact": "Contact"
+    }
+  },
+  "MeInfo": {
+    "greeting": "Hello! I'm",
+    "name": "Daniel",
+    "role": "Full Stack Web Developer",
+    "experience": {
+      "years": "+2",
+      "description": "years of experience in web application development. Currently, I am finishing my degree in Systems Engineering."
+    },
+    "passionateAbout": {
+      "description": "I am passionate about technology, enjoy learning new things, and sharing knowledge. I love working in a team and facing new challenges.",
+      "alwaysReady": "Always ready to learn and contribute!"
+    }
+  },
+  "projects": {
+    "shortly": {
+      "title": "Shortly - URL Shortener",
+      "description": "Web application for shortening URLs. It provides an administration panel, authentication, visit tracking, and a responsive design for an optimal experience on various devices."
+    },
+    "facturation": {
+      "title": "Invoicing System",
+      "description": "Invoice, customer, and product management system. It provides an administration panel, authentication, report generation, and a responsive design."
+    },
+    "code": "Code"
+  },
+  "contact": {
+    "availableToWork": "¡Available for work!",
+    "interestedInWorking": "If you're interested in working with me, feel free to contact me.",
+    "alwaysReady": "I'm always ready to collaborate on new challenges.",
+    "contactButton": "Contact"
+  },
+  "aboutMe": {
+    "experience": "Experience",
+    "downloadCV": "Download CV",
+    "bio": {
+      "name": "My name is Daniel Rangel, a passionate developer with over 2 years of experience in software development.",
+      "passion": "My constant search for new challenges and opportunities drives me to continue growing in the fascinating world of programming.",
+      "focus": "My focus is on various technologies, and I am always eager to learn and apply my knowledge to innovative projects.",
+      "self-taught": "I consider myself a self-taught, proactive person with a great ability to adapt."
+    },
+    "systemEngineering": {
+      "title": "Systems Engineering",
+      "institution": "Universidad del Magdalena",
+      "year": "2021"
+    },
+    "webDeveloper": {
+      "title": "Web Developer",
+      "institution": "C&A Technology",
+      "year": "2022"
+    },
+    "freelanceDeveloper": {
+      "title": "Freelance Developer",
+      "institution": "Freelance",
+      "yearRange": "2022 - 2023"
+    }
+  }
+}

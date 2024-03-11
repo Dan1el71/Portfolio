@@ -1,0 +1,66 @@
+{
+  "title": "Portafolio",
+  "header": {
+    "navItems": {
+      "projects": "Mis Proyectos",
+      "skills": "Habilidades",
+      "aboutMe": "Sobre mi",
+      "contact": "Contacto"
+    }
+  },
+  "MeInfo": {
+    "greeting": "¡Hola! Soy",
+    "name": "Daniel",
+    "role": "Desarrollador web Full Stack",
+    "experience": {
+      "years": "+2",
+      "description": "años de experiencia en el desarrollo de aplicativos web, actualmente me encuentro terminando la carrera de Ingeniería de Sistemas."
+    },
+    "passionateAbout": {
+      "description": "Soy un apasionado por la tecnología, me gusta aprender cosas nuevas y compartir conocimientos. Me encanta trabajar en equipo y enfrentar nuevos desafíos.",
+      "alwaysReady": "¡Siempre dispuesto a aprender y aportar!"
+    }
+  },
+  "projects": {
+    "shortly": {
+      "title": "Shortly - Acortador de URLs",
+      "description": "Aplicacion web para acortar URLs. Ofrece un panel de administración, autenticación, seguimiento de visitas y un diseño responsivo para una experiencia óptima en diversos dispositivos."
+    },
+    "facturation": {
+      "title": "Sistema de Facturación",
+      "description": "Sistema de gestión de facturas, clientes y productos. Ofrece un panel de administración, autenticación, generación de reportes y un diseño responsivo."
+    },
+    "code": "Codigo"
+  },
+  "contact": {
+    "availableToWork": "¡Disponible para trabajar!",
+    "interestedInWorking": "Si estás interesado en trabajar conmigo, no dudes en contactarme.",
+    "alwaysReady": "Estoy siempre listo para colaborar en nuevos retos.",
+    "contactButton": "Contacto"
+  },
+  "aboutMe": {
+    "experience": "Experiencia",
+    "downloadCV": "Descargar CV",
+    "bio": {
+      "name": "Mi nombre es Daniel Rangel, un apasionado desarrollador con más de 2 años de experiencia desarrollando software.",
+      "passion": "Mi constante búsqueda de nuevos retos y oportunidades me impulsa a seguir creciendo en el fascinante mundo de la programación.",
+      "focus": "Mi enfoque se centra en diversas tecnologías, y siempre estoy ansioso por aprender y aplicar mis conocimientos en proyectos innovadores.",
+      "self-taught": "Me considero una persona autodidacta, proactiva y con una gran capacidad de adaptación."
+    },
+    "systemEngineering": {
+      "title": "Ingeniería de Sistemas",
+      "institution": "Universidad del Magdalena",
+      "year": "2021"
+    },
+    "webDeveloper": {
+      "title": "Desarrollador Web",
+      "institution": "C&A Technology",
+      "year": "2022"
+    },
+    "freelanceDeveloper": {
+      "title": "Desarrollador Freelance",
+      "institution": "Freelance",
+      "yearRange": "2022 - 2023"
+    }
+  }
+}
