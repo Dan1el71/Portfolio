@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import Button from '../Layout/Button'
 
 const MeInfo = () => {
   const { t } = useTranslation()
@@ -18,6 +19,10 @@ const MeInfo = () => {
           <strong>{t('MeInfo.passionateAbout.alwaysReady')}</strong>
         </p>
       </div>
+      <Button
+        className="mt-5 text-base">
+        <a href="mailto:ddrmhk1@gmail.com">{t('contact.contactButton')}</a>
+      </Button>
     </div>
   )
 }
