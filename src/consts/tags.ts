@@ -2,7 +2,15 @@ import { IconType } from 'react-icons'
 import { FaNodeJs, FaReact, FaVuejs } from 'react-icons/fa'
 import { BiLogoTailwindCss } from 'react-icons/bi'
 import { TbBrandTypescript } from 'react-icons/tb'
-import { SiExpress, SiPostgresql, SiSpringboot, SiPrisma } from 'react-icons/si'
+import {
+  SiExpress,
+  SiPostgresql,
+  SiSpringboot,
+  SiPrisma,
+  SiAngular,
+  SiDocker,
+  SiChatbot,
+} from 'react-icons/si'
 import { DiJava } from 'react-icons/di'
 import { PiFileSqlBold } from 'react-icons/pi'
 
@@ -75,6 +83,24 @@ const TAGS: Record<
     class: 'bg-blue-400',
     color: 'text-white',
     component: PiFileSqlBold,
+  },
+  ANGULAR: {
+    name: 'Angular',
+    class: 'bg-red-500',
+    color: 'text-red-500',
+    component: SiAngular,
+  },
+  DOCKER: {
+    name: 'Docker',
+    class: 'bg-blue-600',
+    color: 'text-blue-400',
+    component: SiDocker,
+  },
+  CHAT: {
+    name: 'Chat',
+    class: 'bg-blue-900',
+    color: 'text-red-400',
+    component: SiChatbot,
   },
 } as const
 
