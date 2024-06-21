@@ -19,10 +19,9 @@ const MeInfo = () => {
           <strong>{t('MeInfo.passionateAbout.alwaysReady')}</strong>
         </p>
       </div>
-      <Button
-        className="mt-5 text-base">
-        <a href="mailto:ddrmhk1@gmail.com">{t('contact.contactButton')}</a>
-      </Button>
+      <a href="mailto:ddrmhk1@gmail.com">
+        <Button className="mt-5 text-base">{t('contact.contactButton')}</Button>
+      </a>
     </div>
   )
 }
