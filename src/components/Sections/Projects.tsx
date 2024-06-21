@@ -18,7 +18,7 @@ const Projects = () => {
                 <img
                   src={image}
                   alt={title}
-                  className="object-cover p-3 object-top w-full h-56 transition duration-500 sm:h-full md:scale-110 md:group-hover:scale-105"
+                  className="object-cover p-3 object-top w-full h-56 transition duration-500 sm:h-full md:scale-110 md:group-hover:scale-100"
                   loading="lazy"
                 />
               </a>
