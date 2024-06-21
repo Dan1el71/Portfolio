@@ -11,6 +11,14 @@ export default [
     tags: [TAGS.ANGULAR, TAGS.CHAT, TAGS.EXPRESS, TAGS.DOCKER],
   },
   {
+    id: 'facturation',
+    title: i18n.t('projects.facturation.title'),
+    description: i18n.t('projects.facturation.description'),
+    image: './projects/facturation.webp',
+    github: 'https://github.com/Dan1el71/Sistema-de-Facturacion',
+    tags: [TAGS.REACT, TAGS.EXPRESS, TAGS.POSTGRE],
+  },
+  {
     id: 'shortly',
     title: i18n.t('projects.shortly.title'),
     description: i18n.t('projects.shortly.description'),
@@ -18,13 +26,5 @@ export default [
     image: './projects/url-shorter.webp',
     github: 'https://github.com/Dan1el71/shortly',
     tags: [TAGS.REACT, TAGS.TYPESCRIPT, TAGS.NODE, TAGS.PRISMA],
-  },
-  {
-    id: 'facturation',
-    title: i18n.t('projects.facturation.title'),
-    description: i18n.t('projects.facturation.description'),
-    image: './projects/facturation.webp',
-    github: 'https://github.com/Dan1el71/Sistema-de-Facturacion',
-    tags: [TAGS.REACT, TAGS.EXPRESS, TAGS.POSTGRE],
   },
 ]
