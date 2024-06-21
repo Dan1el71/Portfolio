@@ -30,6 +30,10 @@
       "title": "Sistema de Facturación",
       "description": "Sistema de gestión de facturas, clientes y productos. Ofrece un panel de administración, autenticación, generación de reportes y un diseño responsivo."
     },
+    "tickets": {
+      "title": "Sistema de Tickets",
+      "description": "Un sistema robusto para gestionar tickets, usuarios y roles. Ofrece un panel de administración, autenticación de usuarios, funcionalidades de asignación de tickets, chats en tiempo real para mejorar la comunicación y resolución de problemas, y un diseño responsivo para un uso sin interrupciones en una variedad de dispositivos."
+    },
     "code": "Codigo"
   },
   "contact": {

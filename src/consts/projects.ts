@@ -3,6 +3,14 @@ import i18n from '../i18n/i18n'
 
 export default [
   {
+    id: 'tickets',
+    title: i18n.t('projects.tickets.title'),
+    description: i18n.t('projects.tickets.description'),
+    image: './projects/tickets.webp',
+    github: '/#',
+    tags: [TAGS.ANGULAR, TAGS.CHAT, TAGS.EXPRESS, TAGS.DOCKER],
+  },
+  {
     id: 'shortly',
     title: i18n.t('projects.shortly.title'),
     description: i18n.t('projects.shortly.description'),

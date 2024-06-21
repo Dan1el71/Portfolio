@@ -30,6 +30,10 @@
       "title": "Invoicing System",
       "description": "Invoice, customer, and product management system. It provides an administration panel, authentication, report generation, and a responsive design."
     },
+    "tickets": {
+      "title": "Ticket System",
+      "description": "A robust system for managing tickets, users, and roles. It offers an administration panel, user authentication, ticket assignment functionalities, real-time chat to enhance communication and problem resolution, and a responsive design for seamless use on a variety of devices."
+    },
     "code": "Code"
   },
   "contact": {
