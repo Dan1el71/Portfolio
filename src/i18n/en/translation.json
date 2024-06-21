@@ -13,8 +13,8 @@
     "name": "Daniel",
     "role": "Full Stack Web Developer",
     "experience": {
-      "years": "+2",
-      "description": "years of experience in web application development. Currently, I am finishing my degree in Systems Engineering."
+      "years": "+1",
+      "description": "year of experience in web application development. Currently, I am finishing my degree in Systems Engineering."
     },
     "passionateAbout": {
       "description": "I am passionate about technology, enjoy learning new things, and sharing knowledge. I love working in a team and facing new challenges.",
@@ -46,7 +46,7 @@
     "experience": "Experience",
     "downloadCV": "Download CV",
     "bio": {
-      "name": "My name is Daniel Rangel, a passionate developer with over 2 years of experience in software development.",
+      "name": "My name is Daniel Rangel, a passionate developer with over 1 year of experience in software development.",
       "passion": "My constant search for new challenges and opportunities drives me to continue growing in the fascinating world of programming.",
       "focus": "My focus is on various technologies, and I am always eager to learn and apply my knowledge to innovative projects.",
       "self-taught": "I consider myself a self-taught, proactive person with a great ability to adapt."
