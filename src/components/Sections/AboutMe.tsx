@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { saveAs } from 'file-saver'
 //import EXPERIENCE from '../../consts/experience'
 import RESUME from '/Resume.pdf?url'
 import Button from '../Layout/Button'
+import pkg from 'file-saver'
 
 const AboutMe = () => {
+  const { saveAs } = pkg
   const { t } = useTranslation()
   const [loading, setLoading] = useState(false)
 
