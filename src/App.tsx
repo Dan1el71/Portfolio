@@ -1,7 +1,7 @@
 import StarsBackground from './components/Layout/StarsBackground'
 import Header from './components/Layout/Header'
 import Section from './components/Layout/Section'
-import MeInfo from './components/Sections/MeInfo'
+import Hero from './components/Sections/Hero'
 import Projects from './components/Sections/Projects'
 import { useTranslation } from 'react-i18next'
 import AboutMe from './components/Sections/AboutMe'
@@ -22,7 +22,7 @@ function App() {
       <Header />
       <main className="px-4">
         <Section className="py-28 md:py-36">
-          <MeInfo />
+          <Hero />
         </Section>
         <div className="space-y-24">
           <Section
