@@ -13,9 +13,9 @@ const Contact = () => {
         {t('contact.interestedInWorking')}{' '}
         <span className="text-font-secondary">{t('contact.alwaysReady')}</span>
       </p>
-      <Button className="mt-5">
-        <a href="mailto:ddrmhk1@gmail.com">{t('contact.contactButton')}</a>
-      </Button>
+      <a href="mailto:ddrmhk1@gmail.com">
+        <Button className="mt-5">{t('contact.contactButton')}</Button>
+      </a>
     </div>
   )
 }
