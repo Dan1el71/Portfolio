@@ -14,6 +14,7 @@ export default [
     id: 'facturation',
     title: i18n.t('projects.facturation.title'),
     description: i18n.t('projects.facturation.description'),
+    link: 'https://facturaci0n-21.vercel.app/'
     image: './projects/facturation.webp',
     github: 'https://github.com/Dan1el71/Sistema-de-Facturacion',
     tags: [TAGS.REACT, TAGS.EXPRESS, TAGS.POSTGRE],
