@@ -10,10 +10,4 @@ export default [
     date: '2022',
     description: 'Desarrollador Web',
   },
-  {
-    id: '3',
-    title: 'Desarrollador Freelance',
-    date: '2023',
-    description: 'Experiencia desarrollando diversos proyectos web FullStack',
-  },
 ]
