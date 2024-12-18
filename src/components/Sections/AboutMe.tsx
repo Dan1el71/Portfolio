@@ -50,11 +50,6 @@ const AboutMe = () => {
               <p>{t('aboutMe.webDeveloper.institution')}</p>
               <span>{t('aboutMe.webDeveloper.year')}</span>
             </li>
-            <li className="mb-4">
-              <strong>{t('aboutMe.freelanceDeveloper.title')}</strong>
-              <p>{t('aboutMe.freelanceDeveloper.institution')}</p>
-              <span>{t('aboutMe.freelanceDeveloper.yearRange')}</span>
-            </li>
           </ul>
         </div>
       </div>
