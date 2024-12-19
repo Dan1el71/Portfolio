@@ -1,5 +1,5 @@
 import { IconType } from 'react-icons'
-import { FaNodeJs, FaReact, FaVuejs } from 'react-icons/fa'
+import { FaNodeJs, FaReact } from 'react-icons/fa'
 import { BiLogoTailwindCss } from 'react-icons/bi'
 import { TbBrandTypescript } from 'react-icons/tb'
 import {
@@ -9,7 +9,6 @@ import {
   SiPrisma,
   SiAngular,
   SiDocker,
-  SiChatbot,
 } from 'react-icons/si'
 import { DiJava } from 'react-icons/di'
 import { PiFileSqlBold } from 'react-icons/pi'
@@ -66,12 +65,6 @@ const TAGS: Record<
     color: 'text-red-600',
     component: DiJava,
   },
-  VUE: {
-    name: 'VueJS',
-    class: 'bg-green-400',
-    color: 'text-green-400',
-    component: FaVuejs,
-  },
   TYPESCRIPT: {
     name: 'TypeScript',
     class: 'bg-blue-800',
@@ -95,12 +88,6 @@ const TAGS: Record<
     class: 'bg-blue-600',
     color: 'text-blue-400',
     component: SiDocker,
-  },
-  CHAT: {
-    name: 'Chat',
-    class: 'bg-blue-900',
-    color: 'text-red-400',
-    component: SiChatbot,
   },
 } as const
 
