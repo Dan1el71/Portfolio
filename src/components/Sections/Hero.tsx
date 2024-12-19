@@ -11,11 +11,10 @@ const MeInfo = () => {
       </h1>
       <div className="mt-6 text-xl text-gray-300">
         <p className="[&>strong]:text-font-secondary [&>strong]:font-semibold">
-          <strong>{t('MeInfo.experience.years')}</strong>{' '}
           {t('MeInfo.experience.description')}
         </p>
         <p className="mt-3 [&>strong]:text-font-secondary [&>strong]:font-semibold">
-          {t('MeInfo.passionateAbout.description')}{' '}
+          {t('MeInfo.passionateAbout.description')} <br />
           <strong>{t('MeInfo.passionateAbout.alwaysReady')}</strong>
         </p>
       </div>
