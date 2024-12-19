@@ -9,16 +9,15 @@
     }
   },
   "MeInfo": {
-    "greeting": "Hello! I'm",
+    "greeting": "Hello! I am",
     "name": "Daniel",
     "role": "Full Stack Web Developer",
     "experience": {
-      "years": "+1",
-      "description": "year of experience in web application development. Currently, I am finishing my degree in Systems Engineering."
+      "description": "I am passionate about software development, with over 2 years of experience in complete projects and a focus on creating innovative solutions."
     },
     "passionateAbout": {
-      "description": "I am passionate about technology, enjoy learning new things, and sharing knowledge. I love working in a team and facing new challenges.",
-      "alwaysReady": "Always ready to learn and contribute!"
+      "description": "Passionate about turning ideas into innovative solutions that make a difference.",
+      "alwaysReady": "I am ready to take your projects to the next level!"
     }
   },
   "projects": {
@@ -46,20 +45,20 @@
     "experience": "Experience",
     "downloadCV": "Download CV",
     "bio": {
-      "name": "My name is Daniel Rangel, a passionate developer with over 1 year of experience in software development.",
-      "passion": "My constant search for new challenges and opportunities drives me to continue growing in the fascinating world of programming.",
-      "focus": "My focus is on various technologies, and I am always eager to learn and apply my knowledge to innovative projects.",
-      "self-taught": "I consider myself a self-taught, proactive person with a great ability to adapt."
+      "name": "I am a software developer with over 2 years of experience in Full Stack development, working both on the frontend and backend with technologies like Angular, React, Spring, and Laravel.",
+      "passion": "I specialize in creating scalable and practical applications that optimize processes and enhance user experience.",
+      "focus": "I have led projects that optimize business processes and improve user experience, standing out for my ability to integrate cloud solutions and my commitment to continuous learning.",
+      "self-taught": "I am passionate about building practical and efficient solutions that combine attractive design with solid architecture."
     },
     "systemEngineering": {
       "title": "Systems Engineering",
       "institution": "Universidad del Magdalena",
-      "year": "2021"
+      "year": "2021 - Now"
     },
     "webDeveloper": {
       "title": "Web Developer",
       "institution": "C&A Technology",
-      "year": "2022"
+      "year": "2022 - 2023"
     }
   }
 }

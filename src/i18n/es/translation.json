@@ -13,12 +13,11 @@
     "name": "Daniel",
     "role": "Desarrollador web Full Stack",
     "experience": {
-      "years": "+1",
-      "description": "año de experiencia en el desarrollo de aplicativos web, actualmente me encuentro terminando la carrera de Ingeniería de Sistemas."
+      "description": "Soy un apasionado del desarrollo de software, con más de 2 años de experiencia en proyectos completos y una visión enfocada en crear soluciones innovadoras."
     },
     "passionateAbout": {
-      "description": "Soy un apasionado por la tecnología, me gusta aprender cosas nuevas y compartir conocimientos. Me encanta trabajar en equipo y enfrentar nuevos desafíos.",
-      "alwaysReady": "¡Siempre dispuesto a aprender y aportar!"
+      "description": "Apasionado por convertir ideas en soluciones innovadoras que hacen la diferencia.",
+      "alwaysReady": "¡Estoy listo para llevar tus proyectos al siguiente nivel!"
     }
   },
   "projects": {
@@ -46,20 +45,20 @@
     "experience": "Experiencia",
     "downloadCV": "Descargar CV",
     "bio": {
-      "name": "Mi nombre es Daniel Rangel, un apasionado desarrollador con más de 1 año de experiencia desarrollando software.",
-      "passion": "Mi constante búsqueda de nuevos retos y oportunidades me impulsa a seguir creciendo en el fascinante mundo de la programación.",
-      "focus": "Mi enfoque se centra en diversas tecnologías, y siempre estoy ansioso por aprender y aplicar mis conocimientos en proyectos innovadores.",
-      "self-taught": "Me considero una persona autodidacta, proactiva y con una gran capacidad de adaptación."
+      "name": "Soy desarrollador de software con más de 2 años de experiencia en el desarrollo Full Stack, trabajando tanto en frontend como en backend con tecnologías como Angular, React, Spring y Laravel.",
+      "passion": "Me especializo en crear aplicaciones escalables y prácticas que optimizan procesos y mejoran la experiencia del usuario.",
+      "focus": "He liderado proyectos que optimizan procesos empresariales y mejoran la experiencia del usuario, destacando por mi capacidad para integrar soluciones en la nube y mi compromiso con el aprendizaje continuo.",
+      "self-taught": "Me apasiona construir soluciones prácticas y eficientes que combinen un diseño atractivo con una arquitectura sólida."
     },
     "systemEngineering": {
       "title": "Ingeniería de Sistemas",
       "institution": "Universidad del Magdalena",
-      "year": "2021"
+      "year": "2021 - Ahora"
     },
     "webDeveloper": {
       "title": "Desarrollador Web",
       "institution": "C&A Technology",
-      "year": "2022"
+      "year": "2022 - 2023"
     }
   }
 }
