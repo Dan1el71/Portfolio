@@ -9,6 +9,7 @@ import {
   SiPrisma,
   SiAngular,
   SiDocker,
+  SiChatbot,
 } from 'react-icons/si'
 import { DiJava } from 'react-icons/di'
 import { PiFileSqlBold } from 'react-icons/pi'
@@ -88,6 +89,12 @@ const TAGS: Record<
     class: 'bg-blue-600',
     color: 'text-blue-400',
     component: SiDocker,
+  },
+  CHAT: {
+    name: 'Chat',
+    class: 'bg-blue-900',
+    color: 'text-red-400',
+    component: SiChatbot,
   },
 } as const
 
